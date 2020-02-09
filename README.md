@@ -8,3 +8,4 @@ step2- npm run start
 check that the server is running on 
 http://localhost:4000/ 
 
+Then you will see that package-lock.json is created!
